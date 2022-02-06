@@ -1,0 +1,29 @@
+Image_ID, ImageName, Resturant, Location, FoodTime, Images
+
+"1.jfif" : "HotDogs" : "The Grill Station (TGS)", "Food Headquarters", "Murphis Sharwama", "Kobis (GRA)": "Ikeja": "Dinner"
+
+"2.jpg" : "Doughnut" : "Krispy Kreme Doughnuts & Coffee Ikeja City Mall", "Doughnutology Nigeria", "Krispy Kreme Murtala Muhammed Domestic Airport (MMA2)": "Ikeja": "Anytime"
+
+"3.jpg": "Stirfry Spagetti" : "Sumptuous Meals", "Jevinik Place","Food Headquarters", "Ikeja City Mall": "Ikeja": "Anytime"
+
+"4.jpg": "Jollof Rice": "Jevinik Place"," "Fejiro Kitchen", "Crystal Kitchen", "Agata Kitchen": "Ikeja": "Lunch"
+
+"5.png": "Amala and Ewedu": "Just Amala","Lamango Restaurant & Bar": Ikeja: "Lunch"
+
+"6.JPG": Friedrice: "De Tastee Fried Chicken, "Jevinik Place"," "Fejiro Kitchen", "Crystal Kitchen": "Ikeja": "Anytime"
+
+"7.png" : "Fufu": "Lamango Restaurant & Bar",  "Bigsamkitchen" : "Ikeja": "Lunch"
+
+"8.JPG": "Pounded yam with edikiakong" : "Dolphin Restaurant", "Lamango Restaurant & Bar",  "Bigsamkitchen" : "Ikeja" : "Lunch"
+
+"9.JPEG" : "SeaFood": "Bigsamkitchen", "Ocean Basket" :"Ikeja" : "Anytime"
+
+"10.png" : "Eba and Vegetable soup": "Mama Cass Cafeteria", "Crystal Kitchen" : "Ikeja": "Lunch"
+
+"11.png": "Semovita and Aafang Soup": "Dee Beacon Restaurant","Local Government, 2, Ezekiel Street, Ikeja Lagos State": "Ikeja" : "Lunch"
+
+"12.jfif": "Spicy noodles": "Shoprite Ikeja City Mall", "Sumptuous Meals", "Jevinik Place" : "Ikeja": "Breakfast"
+
+"13.jfif": Snacks: "Food Headquarters", "Shoprite Ikeja City Mall": "Ikeja": "Anytime"
+
+"14.jfif": Cakes: "Shoprite Ikeja City Mall", "Food Headquarters" : "Ikeja": "Anytime"
